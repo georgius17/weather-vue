@@ -1,5 +1,18 @@
 # weather-app
 
+### ✨ [Demo](https://georgius17.github.io/weather-vue/)
+
+> A very simple weather app made for learning of VueJS purposes
+
+
+## Author
+
+👤 **georgius17**
+
+* Github: [@georgius17](https://github.com/georgius17)
+
+
+
 ## Project setup
 ```
 npm install
